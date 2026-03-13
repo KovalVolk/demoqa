@@ -29,3 +29,4 @@ def test_visible_accordion_default(browser):
     accord_page.section3_content.click()
     time.sleep(2)
     assert not accord_page.section3_content.visible()
+

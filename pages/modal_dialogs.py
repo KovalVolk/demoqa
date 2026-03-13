@@ -11,3 +11,4 @@ class ModalElements(BasePage):
         self.btns_menu = WebElement(driver, '#modalWrapper > h1')
         self.icon = WebElement(driver, 'header > a > img')
 
+

@@ -14,3 +14,4 @@ def test_text_box(browser):
     assert text_box.full_name.get_text()
     assert text_box.current_address.get_text()
 
+

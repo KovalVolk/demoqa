@@ -9,3 +9,4 @@ def test_check_icon(browser):
    time.sleep(3)
    assert demo_qa_page.equal_url()
 
+

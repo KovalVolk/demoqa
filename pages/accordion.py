@@ -12,3 +12,4 @@ class Accordion(BasePage):
         self.section1_content = WebElement(driver, 'p:nth-child(1)')
         self.section2_content = WebElement(driver, 'p:nth-child(2)')
         self.section3_content = WebElement(driver, 'p')
+
