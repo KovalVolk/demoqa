@@ -12,5 +12,6 @@ class TextBox(BasePage):
         self.full_name = WebElement(driver, '#fullName')
         self.current_address = WebElement(driver, '#currentAddress')
         self.btn_submit = WebElement(driver, '#submit')
+        self.submit = WebElement(driver, '#submit')
 
 
