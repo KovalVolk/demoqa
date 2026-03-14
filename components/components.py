@@ -79,3 +79,4 @@ class WebElement:
             print("Locator type " + self.locator_type + " not correct")
             return False
 
+

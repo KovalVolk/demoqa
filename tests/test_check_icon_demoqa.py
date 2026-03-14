@@ -10,3 +10,4 @@ def test_check_icon(browser):
    assert demo_qa_page.equal_url()
 
 
+

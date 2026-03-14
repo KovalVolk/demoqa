@@ -20,3 +20,4 @@ class FormPage(BasePage):
             self.current_address = WebElement(driver, '#currentAddress')
 
 
+

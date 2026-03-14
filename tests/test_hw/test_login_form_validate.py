@@ -17,3 +17,4 @@ def test_login_form_validate(browser):
 
     assert form_page.first_name.get_dom_attribute('class') == 'was-validated'
 
+

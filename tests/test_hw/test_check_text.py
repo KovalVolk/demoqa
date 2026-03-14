@@ -20,3 +20,4 @@ def test_page_elements(browser):
     assert el_page.btn_sidebar_first.exist()
     assert el_page.btn_sidebar_first_textbox.exist()
 
+

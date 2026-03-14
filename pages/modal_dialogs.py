@@ -12,3 +12,4 @@ class ModalElements(BasePage):
         self.icon = WebElement(driver, 'header > a > img')
 
 
+

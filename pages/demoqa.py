@@ -14,11 +14,6 @@ class DemoQa(BasePage):
         self.text_elements = WebElement(driver, '#© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED')
         self.text2_elements = WebElement(driver, '#div.col-12.mt-4.col-md-6.col-xl-7')
 
-    # def exist_icon(self):
-    #     try:
-    #         self.icon.find_element()
-    #     except NoSuchElenentException:
-    #         return False
-    #     return True
+
 
 
